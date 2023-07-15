@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del famoso curso henry
+Proyecto de prueba para ver como es clonar de la web git hub a mi escritorio local.
+
